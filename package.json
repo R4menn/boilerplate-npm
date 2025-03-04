@@ -1,6 +1,6 @@
 {
-	"author": "Andriy Bohatyrenko",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Andriy Bohatyrenko",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
